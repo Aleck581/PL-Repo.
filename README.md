@@ -13,7 +13,7 @@
   網頁網址：[點擊這裡](你的_HW1_網址)
 
 - **HW2**  
-  網頁網址：[點擊這裡]([你的_HW2_網址](https://drive.google.com/file/d/15sC-dqEdes5PMTAkkm5efaqahUcAni3E/view?usp=sharing))
+  網頁網址：[點擊這裡](https://drive.google.com/file/d/15sC-dqEdes5PMTAkkm5efaqahUcAni3E/view?usp=sharing)
 
 - **HW3**  
   網頁網址：[點擊這裡](你的_HW3_網址)
